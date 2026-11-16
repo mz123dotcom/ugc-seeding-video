@@ -93,5 +93,5 @@ cp -R ugc-seeding-video ~/.claude/skills/
 
 ## License
 
-未指定前请视为保留所有权利；如需开源，建议在此补充 MIT / CC BY 4.0 等许可声明。
+[MIT](LICENSE) — 可自由使用、修改、商用，保留署名即可。
 *（内容由AI生成，仅供参考）*
