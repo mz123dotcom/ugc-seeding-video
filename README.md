@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: ec9aaeb38e2fc102dd43eac077938ab1_995b1c7be1c111f1b140525400de85a5
+    ReservedCode1: sLIwZOcmeZknUUL68Wyo5+VuXkBDqNeCws85C13Y11kGg4rBqWjg2SEU8NRXxjm2guNDf6UP++Ab6ajeekc/mgH/sbEM3JF4PMvrwWYLZ2HcaFicOI1+unlwudP5CRCs4i6eEhUdpNEVJ1j9a1UlSkohUqwjQG12snGRpWKEKCisgfJbGKfkd3etWsI=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: ec9aaeb38e2fc102dd43eac077938ab1_995b1c7be1c111f1b140525400de85a5
+    ReservedCode2: sLIwZOcmeZknUUL68Wyo5+VuXkBDqNeCws85C13Y11kGg4rBqWjg2SEU8NRXxjm2guNDf6UP++Ab6ajeekc/mgH/sbEM3JF4PMvrwWYLZ2HcaFicOI1+unlwudP5CRCs4i6eEhUdpNEVJ1j9a1UlSkohUqwjQG12snGRpWKEKCisgfJbGKfkd3etWsI=
+---
+
 # ugc-seeding-video
 
 > 带货种草口播短视频的 Agent Skill：按「爆款逻辑」SOP，把产品信息变成可直接开拍的 15 秒 / 30 秒口播脚本、分镜表与视频生成提示词。
@@ -58,7 +69,7 @@ ugc-seeding-video/
 支持读取 `SKILL.md` 的 Agent 环境（Claude Code / 各类 Skills 目录规范）通用：
 
 ```bash
-git clone https://github.com/<your-name>/ugc-seeding-video.git
+git clone https://github.com/mz123dotcom/ugc-seeding-video.git
 # 放到你的 skills 目录，例如
 cp -R ugc-seeding-video ~/.claude/skills/
 ```
@@ -83,3 +94,4 @@ cp -R ugc-seeding-video ~/.claude/skills/
 ## License
 
 未指定前请视为保留所有权利；如需开源，建议在此补充 MIT / CC BY 4.0 等许可声明。
+*（内容由AI生成，仅供参考）*
